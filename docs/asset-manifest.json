@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/questionare/static/css/main.f43e2d80.css",
+    "main.js": "/questionare/static/js/main.7ae7f3e1.js",
+    "static/js/453.69f3745b.chunk.js": "/questionare/static/js/453.69f3745b.chunk.js",
+    "static/js/234.3f9ce15c.chunk.js": "/questionare/static/js/234.3f9ce15c.chunk.js",
+    "index.html": "/questionare/index.html",
+    "main.f43e2d80.css.map": "/questionare/static/css/main.f43e2d80.css.map",
+    "main.7ae7f3e1.js.map": "/questionare/static/js/main.7ae7f3e1.js.map",
+    "453.69f3745b.chunk.js.map": "/questionare/static/js/453.69f3745b.chunk.js.map",
+    "234.3f9ce15c.chunk.js.map": "/questionare/static/js/234.3f9ce15c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f43e2d80.css",
+    "static/js/main.7ae7f3e1.js"
+  ]
+}

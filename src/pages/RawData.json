@@ -1,0 +1,681 @@
+[
+  {
+    "header": "Tools",
+    "data": [
+      {
+        "header": "FrontEnd Tools",
+        "des": "This description",
+        "tools": [
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "link": "https://www.tailwindcss.cn/docs/aspect-ratio",
+            "name": "Tailwind",
+            "tag": ["Tailwind", "CSS", "Library"],
+            "des": [
+              "A utility-first CSS framework for rapidly building custom user interfaces.",
+              "一个实用优先的 CSS 框架，用于快速构建自定义用户界面。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/world-vector-logo.svg",
+            "link": "https://worldvectorlogo.com/",
+            "name": "worldvectorlogo",
+            "tag": ["Logo", "PNG", "Library", "SVG", "Vector", "Free", "Icon"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          },
+          {
+            "pic": "https://media.flaticon.com/dist/min/img/logos/flaticon-color-negative.svg",
+            "link": "https://www.flaticon.com/uicons/interface-icons",
+            "name": "Uicons",
+            "tag": ["Logo", "Library", "Free", "Icon"],
+            "des": [
+              "A collection of user interface icons in various styles.",
+              "各种风格的用户界面图标集合。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "link": "https://animate.style/",
+            "name": "CSS Animate",
+            "tag": ["CSS", "Animate"],
+            "des": [
+              "A library of ready-to-use, cross-browser animations for use in your web projects.",
+              "一个包含现成的、跨浏览器动画库，用于您的网页项目。"
+            ]
+          },
+          {
+            "pic": "https://transform.tools/static/favicon.png",
+            "link": "https://transform.tools/html-to-jsx",
+            "name": "HTML to JSX",
+            "tag": ["HTML", "JSX", "Convert"],
+            "des": [
+              "A tool to convert HTML code to JSX format for use in React applications.",
+              "一个将 HTML 代码转换为 JSX 格式以用于 React 应用程序的工具。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/curves-fitness-logo.svg",
+            "link": "https://blog.luckly-mjw.cn/tool-show/tween-code-creator/index.html",
+            "name": "Ease Curve",
+            "tag": ["Animate", "Javascript", "Ease"],
+            "des": [
+              "A tool for generating tween easing curves for animations.",
+              "生成动画缓动曲线的工具。"
+            ]
+          },
+          {
+            "pic": "https://3o.hk/content/images/system/favicon_1605516219746_dd3688.png",
+            "link": "https://3o.hk/album/W0xu",
+            "name": "Picture Bed",
+            "tag": ["Picture", "Image", "CDN"],
+            "des": [
+              "A platform for hosting and sharing images.",
+              "一个用于托管和分享图片的平台。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67A2.5 2.5 0 0 1 12 22m0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5a.54.54 0 0 0-.14-.35c-.41-.46-.63-1.05-.63-1.65a2.5 2.5 0 0 1 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7' fill='green'/%3E%3Ccircle cx='6.5' cy='11.5' r='1.5' fill='green'/%3E%3Ccircle cx='9.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='14.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='17.5' cy='11.5' r='1.5' fill='green'/%3E%3C/svg%3E",
+            "link": "https://ui-libs.vercel.app/",
+            "name": "UI library",
+            "tag": ["UI", "Library", "Design", "Checklist", "Design System"],
+            "des": [
+              "A collection of user interface components and libraries.",
+              "用户界面组件和库的集合。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 21' role='presentation'%3E%3Cpath d='M0 0h14v7H7zm0 7h7l7 7H7v7l-7-7z' fill='black'%3E%3C/path%3E%3C/svg%3E",
+            "link": "https://www.framer.com/motion/component/",
+            "name": "Framer",
+            "tag": ["Framer", "Motion", "Design", "Animate"],
+            "des": [
+              "A platform for creating interactive animations and prototypes.",
+              "创建交互动画和原型的平台。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/c-tick.svg",
+            "link": "https://www.designsystemchecklist.com/zh-cn/category/components",
+            "name": "design checklist",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A checklist for creating comprehensive design systems.",
+              "创建全面设计系统的清单。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/andre-givenchy.svg",
+            "link": "https://uicolors.app/create",
+            "name": "UI color picker",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A tool for picking and creating UI color palettes.",
+              "一个选择和创建用户界面调色板的工具。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUExQTFBIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHJlcXVpcmVkRXh0ZW5zaW9ucz0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj48L2ZvcmVpZ25PYmplY3Q+PGcgaTpleHRyYW5lb3VzPSJzZWxmIj48Zz48cGF0aCBkPSJNODYuNSwyOC42aC04LjFsLTEtNy4xYy0wLjQtMi45LTEuOS01LjUtNC4yLTcuM2MtMi4zLTEuOC01LjItMi41LTguMS0yLjFMMTIsMTkuNWMtNiwwLjgtMTAuMiw2LjQtOS40LDEyLjRsNSwzNyAgICAgYzAuOCw1LjUsNS41LDkuNSwxMC45LDkuNWMwLjUsMCwxLDAsMS41LTAuMWwyLjEtMC4zYzAuNSw1LjYsNS4yLDEwLDEwLjksMTBoNTMuNmM2LDAsMTEtNC45LDExLTExVjM5LjYgICAgIEM5Ny41LDMzLjYsOTIuNiwyOC42LDg2LjUsMjguNnogTTkxLjUsMzkuNlY3MUw3NS43LDUyLjljLTIuNi0zLTcuNC0zLTEwLDBMNTIuMSw2OC41bC00LjktNS40Yy0yLjUtMi43LTYuOC0yLjctOS4yLDBMMjgsNzQgICAgIFYzOS42YzAtMi43LDIuMi01LDUtNWg1My42Qzg5LjMsMzQuNiw5MS41LDM2LjksOTEuNSwzOS42eiBNMjIsMzkuNnYzMi4ybC0yLjgsMC40Yy0yLjcsMC40LTUuMi0xLjUtNS42LTQuM0w4LjUsMzEgICAgIGMtMC40LTIuNywxLjUtNS4yLDQuMy01LjZsNTMuMS03LjNjMC4yLDAsMC41LDAsMC43LDBjMi40LDAsNC42LDEuOCw0LjksNC4zbDAuOSw2LjNIMzNDMjYuOSwyOC42LDIyLDMzLjYsMjIsMzkuNnoiPjwvcGF0aD48Y2lyY2xlIGN4PSI0Mi41IiBjeT0iNDcuOCIgcj0iNiI+PC9jaXJjbGU+PC9nPjwvZz48L3N3aXRjaD48L3N2Zz4=",
+            "link": "https://picsum.photos/",
+            "name": "picsum placeholder",
+            "tag": ["Design System", "CDN", "Image", "Picture"],
+            "des": [
+              "A website providing placeholder images for test in development.",
+              "开发阶段提供占位符图像用于测试网站。"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Application Tools",
+        "des": "This description",
+        "tools": [
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "link": "https://www.tailwindcss.cn/docs/aspect-ratio",
+            "name": "Tailwind",
+            "tag": ["Tailwind", "CSS", "Library", "ZXZ"],
+            "des": [
+              "A utility-first CSS framework for rapidly building custom user interfaces.",
+              "一个实用优先的 CSS 框架，用于快速构建自定义用户界面。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/world-vector-logo.svg",
+            "link": "https://worldvectorlogo.com/",
+            "name": "worldvectorlogo",
+            "tag": ["Logo", "PNG", "Library", "SVG", "Vector", "Free", "Icon"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          },
+          {
+            "pic": "https://media.flaticon.com/dist/min/img/logos/flaticon-color-negative.svg",
+            "link": "https://www.flaticon.com/uicons/interface-icons",
+            "name": "Uicons",
+            "tag": ["Logo", "Library", "Free", "Icon"],
+            "des": [
+              "A collection of user interface icons in various styles.",
+              "各种风格的用户界面图标集合。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "link": "https://animate.style/",
+            "name": "CSS Animate",
+            "tag": ["CSS", "Animate", "animate__animated", "animate__zoomIn"],
+            "des": [
+              "A library of ready-to-use, cross-browser animations for use in your web projects. ",
+              "一个包含现成的、跨浏览器动画库，用于您的网页项目。"
+            ]
+          },
+          {
+            "pic": "https://transform.tools/static/favicon.png",
+            "link": "https://transform.tools/html-to-jsx",
+            "name": "HTML to JSX",
+            "tag": ["HTML", "JSX", "Convert"],
+            "des": [
+              "A tool to convert HTML code to JSX format for use in React applications.",
+              "一个将 HTML 代码转换为 JSX 格式以用于 React 应用程序的工具。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/curves-fitness-logo.svg",
+            "link": "https://blog.luckly-mjw.cn/tool-show/tween-code-creator/index.html",
+            "name": "Ease Curve",
+            "tag": ["Animate", "Javascript", "Ease"],
+            "des": [
+              "A tool for generating tween easing curves for animations.",
+              "生成动画缓动曲线的工具。"
+            ]
+          },
+          {
+            "pic": "https://3o.hk/content/images/system/favicon_1605516219746_dd3688.png",
+            "link": "https://3o.hk/album/W0xu",
+            "name": "Picture Bed",
+            "tag": ["Picture", "Image", "CDN"],
+            "des": [
+              "A platform for hosting and sharing images.",
+              "一个用于托管和分享图片的平台。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67A2.5 2.5 0 0 1 12 22m0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5a.54.54 0 0 0-.14-.35c-.41-.46-.63-1.05-.63-1.65a2.5 2.5 0 0 1 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7' fill='green'/%3E%3Ccircle cx='6.5' cy='11.5' r='1.5' fill='green'/%3E%3Ccircle cx='9.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='14.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='17.5' cy='11.5' r='1.5' fill='green'/%3E%3C/svg%3E",
+            "link": "https://ui-libs.vercel.app/",
+            "name": "UI library",
+            "tag": ["UI", "Library", "Design", "Checklist", "Design System"],
+            "des": [
+              "A collection of user interface components and libraries.",
+              "用户界面组件和库的集合。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 21' role='presentation'%3E%3Cpath d='M0 0h14v7H7zm0 7h7l7 7H7v7l-7-7z' fill='black'%3E%3C/path%3E%3C/svg%3E",
+            "link": "https://www.framer.com/motion/component/",
+            "name": "Framer",
+            "tag": ["Framer", "Motion", "Design", "Animate"],
+            "des": [
+              "A platform for creating interactive animations and prototypes.",
+              "创建交互动画和原型的平台。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/c-tick.svg",
+            "link": "https://www.designsystemchecklist.com/zh-cn/category/components",
+            "name": "design checklist",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A checklist for creating comprehensive design systems.",
+              "创建全面设计系统的清单。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/andre-givenchy.svg",
+            "link": "https://uicolors.app/create",
+            "name": "UI color picker",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A tool for picking and creating UI color palettes.",
+              "一个选择和创建用户界面调色板的工具。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUExQTFBIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHJlcXVpcmVkRXh0ZW5zaW9ucz0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj48L2ZvcmVpZ25PYmplY3Q+PGcgaTpleHRyYW5lb3VzPSJzZWxmIj48Zz48cGF0aCBkPSJNODYuNSwyOC42aC04LjFsLTEtNy4xYy0wLjQtMi45LTEuOS01LjUtNC4yLTcuM2MtMi4zLTEuOC01LjItMi41LTguMS0yLjFMMTIsMTkuNWMtNiwwLjgtMTAuMiw2LjQtOS40LDEyLjRsNSwzNyAgICAgYzAuOCw1LjUsNS41LDkuNSwxMC45LDkuNWMwLjUsMCwxLDAsMS41LTAuMWwyLjEtMC4zYzAuNSw1LjYsNS4yLDEwLDEwLjksMTBoNTMuNmM2LDAsMTEtNC45LDExLTExVjM5LjYgICAgIEM5Ny41LDMzLjYsOTIuNiwyOC42LDg2LjUsMjguNnogTTkxLjUsMzkuNlY3MUw3NS43LDUyLjljLTIuNi0zLTcuNC0zLTEwLDBMNTIuMSw2OC41bC00LjktNS40Yy0yLjUtMi43LTYuOC0yLjctOS4yLDBMMjgsNzQgICAgIFYzOS42YzAtMi43LDIuMi01LDUtNWg1My42Qzg5LjMsMzQuNiw5MS41LDM2LjksOTEuNSwzOS42eiBNMjIsMzkuNnYzMi4ybC0yLjgsMC40Yy0yLjcsMC40LTUuMi0xLjUtNS42LTQuM0w4LjUsMzEgICAgIGMtMC40LTIuNywxLjUtNS4yLDQuMy01LjZsNTMuMS03LjNjMC4yLDAsMC41LDAsMC43LDBjMi40LDAsNC42LDEuOCw0LjksNC4zbDAuOSw2LjNIMzNDMjYuOSwyOC42LDIyLDMzLjYsMjIsMzkuNnoiPjwvcGF0aD48Y2lyY2xlIGN4PSI0Mi41IiBjeT0iNDcuOCIgcj0iNiI+PC9jaXJjbGU+PC9nPjwvZz48L3N3aXRjaD48L3N2Zz4=",
+            "link": "https://picsum.photos/",
+            "name": "picsum placeholder",
+            "tag": ["Design System", "CDN", "Image", "Picture"],
+            "des": [
+              "A website providing placeholder images for test in development.",
+              "开发阶段提供占位符图像用于测试网站。"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Front Tools",
+        "des": "This description",
+        "tools": [
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "link": "https://www.tailwindcss.cn/docs/aspect-ratio",
+            "name": "Tailwind",
+            "tag": ["Tailwind", "CSS", "Library"],
+            "des": [
+              "A utility-first CSS framework for rapidly building custom user interfaces.",
+              "一个实用优先的 CSS 框架，用于快速构建自定义用户界面。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/world-vector-logo.svg",
+            "link": "https://worldvectorlogo.com/",
+            "name": "worldvectorlogo",
+            "tag": ["Logo", "PNG", "Library", "SVG", "Vector", "Free", "Icon"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          },
+          {
+            "pic": "https://media.flaticon.com/dist/min/img/logos/flaticon-color-negative.svg",
+            "link": "https://www.flaticon.com/uicons/interface-icons",
+            "name": "Uicons",
+            "tag": ["Logo", "Logo", "Library", "Free", "Icon"],
+            "des": [
+              "A collection of user interface icons in various styles.",
+              "各种风格的用户界面图标集合。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "link": "https://animate.style/",
+            "name": "CSS Animate",
+            "tag": ["CSS", "Animate"],
+            "des": [
+              "A library of ready-to-use, cross-browser animations for use in your web projects.",
+              "一个包含现成的、跨浏览器动画库，用于您的网页项目。"
+            ]
+          },
+          {
+            "pic": "https://transform.tools/static/favicon.png",
+            "link": "https://transform.tools/html-to-jsx",
+            "name": "HTML to JSX",
+            "tag": ["HTML", "JSX", "Convert"],
+            "des": [
+              "A tool to convert HTML code to JSX format for use in React applications.",
+              "一个将 HTML 代码转换为 JSX 格式以用于 React 应用程序的工具。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/curves-fitness-logo.svg",
+            "link": "https://blog.luckly-mjw.cn/tool-show/tween-code-creator/index.html",
+            "name": "Ease Curve",
+            "tag": ["Animate", "Javascript", "Ease"],
+            "des": [
+              "A tool for generating tween easing curves for animations.",
+              "生成动画缓动曲线的工具。"
+            ]
+          },
+          {
+            "pic": "https://3o.hk/content/images/system/favicon_1605516219746_dd3688.png",
+            "link": "https://3o.hk/album/W0xu",
+            "name": "Picture Bed",
+            "tag": ["Picture", "Image", "CDN"],
+            "des": [
+              "A platform for hosting and sharing images.",
+              "一个用于托管和分享图片的平台。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67A2.5 2.5 0 0 1 12 22m0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5a.54.54 0 0 0-.14-.35c-.41-.46-.63-1.05-.63-1.65a2.5 2.5 0 0 1 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7' fill='green'/%3E%3Ccircle cx='6.5' cy='11.5' r='1.5' fill='green'/%3E%3Ccircle cx='9.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='14.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='17.5' cy='11.5' r='1.5' fill='green'/%3E%3C/svg%3E",
+            "link": "https://ui-libs.vercel.app/",
+            "name": "UI library",
+            "tag": ["UI", "Library", "Design", "Checklist", "Design System"],
+            "des": [
+              "A collection of user interface components and libraries.",
+              "用户界面组件和库的集合。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 21' role='presentation'%3E%3Cpath d='M0 0h14v7H7zm0 7h7l7 7H7v7l-7-7z' fill='black'%3E%3C/path%3E%3C/svg%3E",
+            "link": "https://www.framer.com/motion/component/",
+            "name": "Framer",
+            "tag": ["Framer", "Motion", "Design", "Animate"],
+            "des": [
+              "A platform for creating interactive animations and prototypes.",
+              "创建交互动画和原型的平台。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/c-tick.svg",
+            "link": "https://www.designsystemchecklist.com/zh-cn/category/components",
+            "name": "design checklist",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A checklist for creating comprehensive design systems.",
+              "创建全面设计系统的清单。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/andre-givenchy.svg",
+            "link": "https://uicolors.app/create",
+            "name": "UI color picker",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A tool for picking and creating UI color palettes.",
+              "一个选择和创建用户界面调色板的工具。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUExQTFBIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHJlcXVpcmVkRXh0ZW5zaW9ucz0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj48L2ZvcmVpZ25PYmplY3Q+PGcgaTpleHRyYW5lb3VzPSJzZWxmIj48Zz48cGF0aCBkPSJNODYuNSwyOC42aC04LjFsLTEtNy4xYy0wLjQtMi45LTEuOS01LjUtNC4yLTcuM2MtMi4zLTEuOC01LjItMi41LTguMS0yLjFMMTIsMTkuNWMtNiwwLjgtMTAuMiw2LjQtOS40LDEyLjRsNSwzNyAgICAgYzAuOCw1LjUsNS41LDkuNSwxMC45LDkuNWMwLjUsMCwxLDAsMS41LTAuMWwyLjEtMC4zYzAuNSw1LjYsNS4yLDEwLDEwLjksMTBoNTMuNmM2LDAsMTEtNC45LDExLTExVjM5LjYgICAgIEM5Ny41LDMzLjYsOTIuNiwyOC42LDg2LjUsMjguNnogTTkxLjUsMzkuNlY3MUw3NS43LDUyLjljLTIuNi0zLTcuNC0zLTEwLDBMNTIuMSw2OC41bC00LjktNS40Yy0yLjUtMi43LTYuOC0yLjctOS4yLDBMMjgsNzQgICAgIFYzOS42YzAtMi43LDIuMi01LDUtNWg1My42Qzg5LjMsMzQuNiw5MS41LDM2LjksOTEuNSwzOS42eiBNMjIsMzkuNnYzMi4ybC0yLjgsMC40Yy0yLjcsMC40LTUuMi0xLjUtNS42LTQuM0w4LjUsMzEgICAgIGMtMC40LTIuNywxLjUtNS4yLDQuMy01LjZsNTMuMS03LjNjMC4yLDAsMC41LDAsMC43LDBjMi40LDAsNC42LDEuOCw0LjksNC4zbDAuOSw2LjNIMzNDMjYuOSwyOC42LDIyLDMzLjYsMjIsMzkuNnoiPjwvcGF0aD48Y2lyY2xlIGN4PSI0Mi41IiBjeT0iNDcuOCIgcj0iNiI+PC9jaXJjbGU+PC9nPjwvZz48L3N3aXRjaD48L3N2Zz4=",
+            "link": "https://picsum.photos/",
+            "name": "picsum placeholder",
+            "tag": ["Design System", "CDN", "Image", "Picture"],
+            "des": [
+              "A website providing placeholder images for test in development.",
+              "开发阶段提供占位符图像用于测试网站。"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Front Tools",
+        "des": "This description",
+        "tools": [
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "link": "https://www.tailwindcss.cn/docs/aspect-ratio",
+            "name": "Tailwind",
+            "tag": ["Tailwind", "CSS", "Library"],
+            "des": [
+              "A utility-first CSS framework for rapidly building custom user interfaces.",
+              "一个实用优先的 CSS 框架，用于快速构建自定义用户界面。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/world-vector-logo.svg",
+            "link": "https://worldvectorlogo.com/",
+            "name": "worldvectorlogo",
+            "tag": ["Logo", "PNG", "Library", "SVG", "Vector", "Free", "Icon"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          },
+          {
+            "pic": "https://media.flaticon.com/dist/min/img/logos/flaticon-color-negative.svg",
+            "link": "https://www.flaticon.com/uicons/interface-icons",
+            "name": "Uicons",
+            "tag": ["Logo", "Library", "Free", "Icon"],
+            "des": [
+              "A collection of user interface icons in various styles.",
+              "各种风格的用户界面图标集合。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "link": "https://animate.style/",
+            "name": "CSS Animate",
+            "tag": ["CSS", "Animate"],
+            "des": [
+              "A library of ready-to-use, cross-browser animations for use in your web projects.",
+              "一个包含现成的、跨浏览器动画库，用于您的网页项目。"
+            ]
+          },
+          {
+            "pic": "https://transform.tools/static/favicon.png",
+            "link": "https://transform.tools/html-to-jsx",
+            "name": "HTML to JSX",
+            "tag": ["HTML", "JSX", "Convert"],
+            "des": [
+              "A tool to convert HTML code to JSX format for use in React applications.",
+              "一个将 HTML 代码转换为 JSX 格式以用于 React 应用程序的工具。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/curves-fitness-logo.svg",
+            "link": "https://blog.luckly-mjw.cn/tool-show/tween-code-creator/index.html",
+            "name": "Ease Curve",
+            "tag": ["Animate", "Javascript", "Ease"],
+            "des": [
+              "A tool for generating tween easing curves for animations.",
+              "生成动画缓动曲线的工具。"
+            ]
+          },
+          {
+            "pic": "https://3o.hk/content/images/system/favicon_1605516219746_dd3688.png",
+            "link": "https://3o.hk/album/W0xu",
+            "name": "Picture Bed",
+            "tag": ["Picture", "Image", "CDN"],
+            "des": [
+              "A platform for hosting and sharing images.",
+              "一个用于托管和分享图片的平台。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67A2.5 2.5 0 0 1 12 22m0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5a.54.54 0 0 0-.14-.35c-.41-.46-.63-1.05-.63-1.65a2.5 2.5 0 0 1 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7' fill='green'/%3E%3Ccircle cx='6.5' cy='11.5' r='1.5' fill='green'/%3E%3Ccircle cx='9.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='14.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='17.5' cy='11.5' r='1.5' fill='green'/%3E%3C/svg%3E",
+            "link": "https://ui-libs.vercel.app/",
+            "name": "UI library",
+            "tag": ["UI", "Library", "Design", "Checklist", "Design System"],
+            "des": [
+              "A collection of user interface components and libraries.",
+              "用户界面组件和库的集合。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 21' role='presentation'%3E%3Cpath d='M0 0h14v7H7zm0 7h7l7 7H7v7l-7-7z' fill='black'%3E%3C/path%3E%3C/svg%3E",
+            "link": "https://www.framer.com/motion/component/",
+            "name": "Framer",
+            "tag": ["Framer", "Motion", "Design", "Animate"],
+            "des": [
+              "A platform for creating interactive animations and prototypes.",
+              "创建交互动画和原型的平台。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/c-tick.svg",
+            "link": "https://www.designsystemchecklist.com/zh-cn/category/components",
+            "name": "design checklist",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A checklist for creating comprehensive design systems.",
+              "创建全面设计系统的清单。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/andre-givenchy.svg",
+            "link": "https://uicolors.app/create",
+            "name": "UI color picker",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A tool for picking and creating UI color palettes.",
+              "一个选择和创建用户界面调色板的工具。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUExQTFBIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHJlcXVpcmVkRXh0ZW5zaW9ucz0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj48L2ZvcmVpZ25PYmplY3Q+PGcgaTpleHRyYW5lb3VzPSJzZWxmIj48Zz48cGF0aCBkPSJNODYuNSwyOC42aC04LjFsLTEtNy4xYy0wLjQtMi45LTEuOS01LjUtNC4yLTcuM2MtMi4zLTEuOC01LjItMi41LTguMS0yLjFMMTIsMTkuNWMtNiwwLjgtMTAuMiw2LjQtOS40LDEyLjRsNSwzNyAgICAgYzAuOCw1LjUsNS41LDkuNSwxMC45LDkuNWMwLjUsMCwxLDAsMS41LTAuMWwyLjEtMC4zYzAuNSw1LjYsNS4yLDEwLDEwLjksMTBoNTMuNmM2LDAsMTEtNC45LDExLTExVjM5LjYgICAgIEM5Ny41LDMzLjYsOTIuNiwyOC42LDg2LjUsMjguNnogTTkxLjUsMzkuNlY3MUw3NS43LDUyLjljLTIuNi0zLTcuNC0zLTEwLDBMNTIuMSw2OC41bC00LjktNS40Yy0yLjUtMi43LTYuOC0yLjctOS4yLDBMMjgsNzQgICAgIFYzOS42YzAtMi43LDIuMi01LDUtNWg1My42Qzg5LjMsMzQuNiw5MS41LDM2LjksOTEuNSwzOS42eiBNMjIsMzkuNnYzMi4ybC0yLjgsMC40Yy0yLjcsMC40LTUuMi0xLjUtNS42LTQuM0w4LjUsMzEgICAgIGMtMC40LTIuNywxLjUtNS4yLDQuMy01LjZsNTMuMS03LjNjMC4yLDAsMC41LDAsMC43LDBjMi40LDAsNC42LDEuOCw0LjksNC4zbDAuOSw2LjNIMzNDMjYuOSwyOC42LDIyLDMzLjYsMjIsMzkuNnoiPjwvcGF0aD48Y2lyY2xlIGN4PSI0Mi41IiBjeT0iNDcuOCIgcj0iNiI+PC9jaXJjbGU+PC9nPjwvZz48L3N3aXRjaD48L3N2Zz4=",
+            "link": "https://picsum.photos/",
+            "name": "picsum placeholder",
+            "tag": ["Design System", "CDN", "Image", "Picture"],
+            "des": [
+              "A website providing placeholder images for test in development.",
+              "开发阶段提供占位符图像用于测试网站。"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Front Tools",
+        "des": "This description",
+        "tools": [
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "link": "https://www.tailwindcss.cn/docs/aspect-ratio",
+            "name": "Tailwind",
+            "tag": ["Tailwind", "CSS", "Library"],
+            "des": [
+              "A utility-first CSS framework for rapidly building custom user interfaces.",
+              "一个实用优先的 CSS 框架，用于快速构建自定义用户界面。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/world-vector-logo.svg",
+            "link": "https://worldvectorlogo.com/",
+            "name": "worldvectorlogo",
+            "tag": ["Logo", "PNG", "Library", "SVG", "Vector", "Free", "Icon"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          },
+          {
+            "pic": "https://media.flaticon.com/dist/min/img/logos/flaticon-color-negative.svg",
+            "link": "https://www.flaticon.com/uicons/interface-icons",
+            "name": "Uicons",
+            "tag": ["Logo", "Library", "Free", "Icon"],
+            "des": [
+              "A collection of user interface icons in various styles.",
+              "各种风格的用户界面图标集合。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "link": "https://animate.style/",
+            "name": "CSS Animate",
+            "tag": ["CSS", "Animate"],
+            "des": [
+              "A library of ready-to-use, cross-browser animations for use in your web projects.",
+              "一个包含现成的、跨浏览器动画库，用于您的网页项目。"
+            ]
+          },
+          {
+            "pic": "https://transform.tools/static/favicon.png",
+            "link": "https://transform.tools/html-to-jsx",
+            "name": "HTML to JSX",
+            "tag": ["HTML", "JSX", "Convert"],
+            "des": [
+              "A tool to convert HTML code to JSX format for use in React applications.",
+              "一个将 HTML 代码转换为 JSX 格式以用于 React 应用程序的工具。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/curves-fitness-logo.svg",
+            "link": "https://blog.luckly-mjw.cn/tool-show/tween-code-creator/index.html",
+            "name": "Ease Curve",
+            "tag": ["Animate", "Javascript", "Ease"],
+            "des": [
+              "A tool for generating tween easing curves for animations.",
+              "生成动画缓动曲线的工具。"
+            ]
+          },
+          {
+            "pic": "https://3o.hk/content/images/system/favicon_1605516219746_dd3688.png",
+            "link": "https://3o.hk/album/W0xu",
+            "name": "Picture Bed",
+            "tag": ["Picture", "Image", "CDN"],
+            "des": [
+              "A platform for hosting and sharing images.",
+              "一个用于托管和分享图片的平台。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='M12 22C6.49 22 2 17.51 2 12S6.49 2 12 2s10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67A2.5 2.5 0 0 1 12 22m0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5a.54.54 0 0 0-.14-.35c-.41-.46-.63-1.05-.63-1.65a2.5 2.5 0 0 1 2.5-2.5H16c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7' fill='green'/%3E%3Ccircle cx='6.5' cy='11.5' r='1.5' fill='green'/%3E%3Ccircle cx='9.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='14.5' cy='7.5' r='1.5' fill='green'/%3E%3Ccircle cx='17.5' cy='11.5' r='1.5' fill='green'/%3E%3C/svg%3E",
+            "link": "https://ui-libs.vercel.app/",
+            "name": "UI library",
+            "tag": ["UI", "Library", "Design", "Checklist", "Design System"],
+            "des": [
+              "A collection of user interface components and libraries.",
+              "用户界面组件和库的集合。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 21' role='presentation'%3E%3Cpath d='M0 0h14v7H7zm0 7h7l7 7H7v7l-7-7z' fill='black'%3E%3C/path%3E%3C/svg%3E",
+            "link": "https://www.framer.com/motion/component/",
+            "name": "Framer",
+            "tag": ["Framer", "Motion", "Design", "Animate"],
+            "des": [
+              "A platform for creating interactive animations and prototypes.",
+              "创建交互动画和原型的平台。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/c-tick.svg",
+            "link": "https://www.designsystemchecklist.com/zh-cn/category/components",
+            "name": "design checklist",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A checklist for creating comprehensive design systems.",
+              "创建全面设计系统的清单。"
+            ]
+          },
+          {
+            "pic": "https://cdn.worldvectorlogo.com/logos/andre-givenchy.svg",
+            "link": "https://uicolors.app/create",
+            "name": "UI color picker",
+            "tag": ["Design", "Checklist", "Design System"],
+            "des": [
+              "A tool for picking and creating UI color palettes.",
+              "一个选择和创建用户界面调色板的工具。"
+            ]
+          },
+          {
+            "pic": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUExQTFBIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHJlcXVpcmVkRXh0ZW5zaW9ucz0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj48L2ZvcmVpZ25PYmplY3Q+PGcgaTpleHRyYW5lb3VzPSJzZWxmIj48Zz48cGF0aCBkPSJNODYuNSwyOC42aC04LjFsLTEtNy4xYy0wLjQtMi45LTEuOS01LjUtNC4yLTcuM2MtMi4zLTEuOC01LjItMi41LTguMS0yLjFMMTIsMTkuNWMtNiwwLjgtMTAuMiw2LjQtOS40LDEyLjRsNSwzNyAgICAgYzAuOCw1LjUsNS41LDkuNSwxMC45LDkuNWMwLjUsMCwxLDAsMS41LTAuMWwyLjEtMC4zYzAuNSw1LjYsNS4yLDEwLDEwLjksMTBoNTMuNmM2LDAsMTEtNC45LDExLTExVjM5LjYgICAgIEM5Ny41LDMzLjYsOTIuNiwyOC42LDg2LjUsMjguNnogTTkxLjUsMzkuNlY3MUw3NS43LDUyLjljLTIuNi0zLTcuNC0zLTEwLDBMNTIuMSw2OC41bC00LjktNS40Yy0yLjUtMi43LTYuOC0yLjctOS4yLDBMMjgsNzQgICAgIFYzOS42YzAtMi43LDIuMi01LDUtNWg1My42Qzg5LjMsMzQuNiw5MS41LDM2LjksOTEuNSwzOS42eiBNMjIsMzkuNnYzMi4ybC0yLjgsMC40Yy0yLjcsMC40LTUuMi0xLjUtNS42LTQuM0w4LjUsMzEgICAgIGMtMC40LTIuNywxLjUtNS4yLDQuMy01LjZsNTMuMS03LjNjMC4yLDAsMC41LDAsMC43LDBjMi40LDAsNC42LDEuOCw0LjksNC4zbDAuOSw2LjNIMzNDMjYuOSwyOC42LDIyLDMzLjYsMjIsMzkuNnoiPjwvcGF0aD48Y2lyY2xlIGN4PSI0Mi41IiBjeT0iNDcuOCIgcj0iNiI+PC9jaXJjbGU+PC9nPjwvZz48L3N3aXRjaD48L3N2Zz4=",
+            "link": "https://picsum.photos/",
+            "name": "picsum placeholder",
+            "tag": ["Design System", "CDN", "Image", "Picture"],
+            "des": [
+              "A website providing placeholder images for test in development.",
+              "开发阶段提供占位符图像用于测试网站。"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "header": "Other",
+    "data": [
+      {
+        "header": "About",
+        "des": "This description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description This descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis descriptionThis description",
+        "tools": []
+      },
+      {
+        "header": "Developer",
+        "des": "This website is used to manage daily tools and resources for front-end development. The website is built with React, and the data is stored in a JSON file.",
+        "tools": [
+          {
+            "pic": "https://3o.hk/images/2024/01/14/avatar.md.jpg",
+            "link": "https://www.xianzhe.site",
+            "name": "Xianzhe Zhang",
+            "tag": [
+              "Founder",
+              "FrontEnd",
+              "UI",
+              "Design",
+              "Data",
+              "CSS",
+              "Library"
+            ],
+            "des": [
+              "Responsible for frontend development and design. Designing the UI and managing the data.",
+              "负责前端开发和设计。设计用户界面和管理数据。"
+            ]
+          },
+          {
+            "pic": "https://enmmmmovo.github.io/static/images/avatars/IMG_1879.JPG",
+            "link": "https://enmmmmovo.github.io/#/home",
+            "name": "William Wong",
+            "tag": ["Founder", "BackEnd", "Data", "API"],
+            "des": [
+              "A website providing a large collection of vector logos for free.",
+              "提供大量免费矢量标志的网站。"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

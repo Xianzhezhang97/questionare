@@ -1,0 +1,311 @@
+{
+  "navbarItem": [
+    {
+      "name": ["Home", "主页"],
+      "href": "/",
+      "icon": "fi-rr-home-heart",
+      "des": ["Key information is here ~", "主要信息在这里 ~"],
+      "expression": "❤٩ (◕‿◕｡)۶ 🏠",
+      "isTopShow": false,
+      "scondMenu": [
+        {
+          "link": "/#Education",
+          "name": ["Education", "教育"],
+          "icon": "fi-rr-book"
+        },
+        {
+          "link": "/#Capability",
+          "name": ["Capability", "能力"],
+          "icon": "fi-rr-user"
+        },
+        {
+          "link": "/#WorkExperience",
+          "name": ["Work", "工作"],
+          "icon": "fi-rr-tool-box"
+        },
+        {
+          "link": "/#SelfDescribing",
+          "name": ["About me", "关于"],
+          "icon": "fi-rr-comment-heart"
+        },
+        {
+          "link": "/#WhyMe",
+          "name": ["Why me", "优势"],
+          "icon": "fi-rr-lightbulb-on"
+        }
+      ]
+    },
+    {
+      "name": ["Work", "工作"],
+      "href": "/work",
+      "icon": "fi-rr-tool-box",
+      "des": ["Here is my work part~", "这里是我的工作模块~"],
+      "expression": "(｡◕‿◕｡) 📧",
+      "scondMenu": [
+        {
+          "link": "/resume",
+          "name": ["Resume", "简历"],
+          "icon": "fi-rr-memo-pad",
+          "status": "fi-sr-unlock"
+        },
+        {
+          "link": "/coverletters",
+          "name": ["Coverletters", "求职信"],
+          "icon": "fi-rr-book",
+          "status": "fi-sr-lock"
+        },
+        {
+          "link": "/project",
+          "name": ["Project", "作品"],
+          "icon": "fi-rr-folder",
+          "status": "fi-sr-eye-crossed"
+        },
+        {
+          "link": "/networkingmsg",
+          "name": ["NetWorking", "社交"],
+          "icon": "fi-rr-network-analytic",
+          "status": "fi-sr-eye-crossed"
+        }
+      ]
+    },
+    {
+      "name": ["Life", "生活"],
+      "href": "/life",
+      "icon": "fi-rr-mountains",
+      "des": ["It captures my wonderful life ~", "记录我的精彩生活 ~"],
+      "expression": "(＾◡＾) 🌄",
+      "isTopShow": true,
+      "scondMenu": [
+        {
+          "icon": "fi-sr-music-alt",
+          "name": ["Music", "音 乐"],
+          "link": "/music",
+          "status": "fi-sr-eye-crossed"
+        },
+        {
+          "icon": "fi-sr-user-music",
+          "name": ["Perform", "表 演"],
+          "link": "/perform",
+          "status": "fi-sr-eye-crossed"
+        },
+        {
+          "icon": "fi-sr-picture",
+          "name": ["Gallery", "图 库"],
+          "link": "/gallery",
+          "status": "fi-sr-unlock"
+        },
+        {
+          "icon": "fi-sr-followcollection",
+          "name": ["Story", "故 事"],
+          "link": "/story",
+          "status": "fi-sr-eye-crossed"
+        }
+      ]
+    },
+    {
+      "name": ["Workbench", "工具"],
+      "href": "/workbench",
+      "icon": "fi-rr-corporate-alt",
+      "des": [" Personal Workbench  ~ ", " 个人工作台 ~ "],
+      "expression": "(⌐■_■) 💻",
+      "isTopShow": true,
+      "scondMenu": [
+        {
+          "link": "/rentmsg",
+          "name": ["House Rental", "租房系统"],
+          "icon": "fi-rr-house-building",
+          "status": "fi-sr-lock"
+        },
+        {
+          "link": "/tool",
+          "name": ["Tools panel", "工具仪表"],
+          "icon": "fi-rr-tools",
+          "status": "fi-sr-unlock"
+        },
+        {
+          "link": "/table2json",
+          "name": ["Data converter", "数据转换"],
+          "icon": "fi-rr-database",
+          "status": "fi-sr-unlock"
+        }
+      ]
+    },
+    {
+      "name": ["Contact", "联络"],
+      "href": "/Contact",
+      "icon": "fi-rr-following",
+      "des": [
+        "You can contact me through the following methods ~",
+        "您可以通过以下方式找到我 ~"
+      ],
+      "expression": "(｡♥‿♥｡) ☎️",
+      "isTopShow": true,
+      "scondMenu": [
+        {
+          "name": ["Linkedin", "领英"],
+          "icon": "fi-brands-linkedin",
+          "link": "https://www.linkedin.com/in/zhang-xianzhe-03133a259/"
+        },
+        {
+          "name": ["E-mail", "邮件"],
+          "icon": "fi-rr-envelope",
+          "link": "https://outlook.office365.com/mail/"
+        },
+        {
+          "name": ["Facebook", " Facebook"],
+          "icon": "fi-brands-facebook",
+          "link": "https://www.facebook.com/profile.php?id=100085874466260"
+        },
+        {
+          "name": ["Phone", "电话"],
+          "icon": "fi-sr-circle-phone-flip",
+          "link": "+61 0434344292"
+        },
+        {
+          "name": ["Instagram", "Instagram"],
+          "icon": "fi-brands-instagram",
+          "link": "https://www.instagram.com/invites/contact/?i=er73s6a2y80u&utm_content=pblnb0t"
+        },
+        {
+          "name": ["Xiaohongshu", "小红书"],
+          "icon": "fi-sr-book-alt",
+          "link": "https://www.xiaohongshu.com/user/profile/5e36719a0000000001006210?xhsshare=CopyLink&appuid=5e36719a0000000001006210&apptime=1700945579"
+        },
+        {
+          "name": ["Wechat", "微信"],
+          "icon": "fi-sr-comments",
+          "link": "https://www.wechat.com/"
+        }
+      ]
+    },
+    {
+      "name": ["Language", "语言"],
+      "button": "LangToggle",
+      "icon": "fi-rr-globe",
+      "des": [
+        "Select your preferred language for displaying the webpage ~",
+        "请选择你喜欢的语言来显示网页 ~"
+      ],
+      "expression": "◕ ‿ ◕  🎈",
+      "isTopShow": false,
+      "scondMenu": [
+        {
+          "name": ["English", "English"],
+          "icon": "fi-rr-globe",
+          "button": "lang0"
+        },
+        {
+          "name": ["中文", "中文"],
+          "icon": "fi-ss-stars",
+          "button": "lang1"
+        }
+      ]
+    }
+  ],
+  "Location": [
+    {
+      "id": "/#Education",
+      "label": ["Education", "教育"],
+      "icon": "fi-rr-book",
+      "color1": "from-red-500",
+      "color2": "to-red-700"
+    },
+    {
+      "id": "/#Capability",
+      "label": ["Capability", "能力"],
+      "icon": "fi-rr-user",
+      "color1": "from-orange-500",
+      "color2": "to-amber-500"
+    },
+    {
+      "id": "/#WorkExperience",
+      "label": ["Work", "工作"],
+      "icon": "fi-rr-tool-box",
+      "color1": "from-cyan-500",
+      "color2": "to-blue-500"
+    },
+    {
+      "id": "/#SelfDescribing",
+      "label": ["Describe", "自述"],
+      "icon": "fi-rr-comment-heart",
+      "color1": "from-sky-500",
+      "color2": "to-emerald-500"
+    },
+    {
+      "id": "/#WhyMe",
+      "label": ["Why me", "优势"],
+      "icon": "fi-rr-lightbulb-on",
+      "color1": "from-indigo-500",
+      "color2": "to-pink-500"
+    }
+  ],
+  "workbench": [
+    {
+      "id": "/networkingmsg",
+      "label": ["NetWorking", "互联社交"],
+      "icon": "fi-rr-tool-box",
+      "status": "fi-sr-eye-crossed"
+    },
+    {
+      "id": "/coverletters",
+      "label": ["Coverletters", "求职信"],
+      "icon": "fi-rr-book",
+      "status": "fi-sr-lock"
+    },
+    {
+      "id": "/rentmsg",
+      "label": ["House Rental", "租房系统"],
+      "icon": "fi-rr-house-building",
+      "status": "fi-sr-lock"
+    },
+    {
+      "id": "/table2json",
+      "label": ["Data converter", "数据转换"],
+      "icon": "fi-rr-database",
+      "status": "fi-sr-unlock"
+    }
+  ],
+  "Lifes": [
+    {
+      "icon": "fi-sr-music-alt",
+      "label": ["Music", "音 乐"],
+      "link": "/music",
+      "pic": "3o.hk/images/2024/01/19/EmotionalStable.md.png",
+      "des": "It collect musics I recommend ~",
+      "status": "fi-sr-eye-crossed"
+    },
+    {
+      "icon": "fi-sr-user-music",
+      "label": ["Perform", "表 演"],
+      "link": "/perform",
+      "pic": "3o.hk/images/2024/01/19/ProblemSolving.png",
+      "des": "It collect musics I perform ~",
+      "status": "fi-sr-eye-crossed"
+    },
+    {
+      "icon": "fi-sr-picture",
+      "label": ["Gallery", "图 库"],
+      "link": "/gallery",
+      "pic": "3o.hk/images/2024/01/19/AestheticAttitude.md.png",
+      "des": "It collect picture I take ~",
+      "status": "fi-sr-unlock"
+    },
+    {
+      "icon": "fi-sr-followcollection",
+      "label": ["Story", "故 事"],
+      "link": "/story",
+      "pic": "3o.hk/images/2024/01/19/Leadership.md.png",
+      "des": "It collect stories I undergo ~",
+      "status": "fi-sr-eye-crossed"
+    }
+  ],
+  "Avatar": {
+    "Webname": ["Scott Cheung", "张贤哲Scott"],
+    "helloword": ["Keep Enthusiasm", "保持热爱"]
+  },
+  "Hero": {
+    "hello": ["Welcome! I'm Scott.", "好久不见，我是贤哲"],
+    "word": ["Sidere mens eadem mutato", "繁星纵变，智慧永存"]
+  },
+  "dialog": "http://3o.hk/images/2024/04/21/infj.png"
+}

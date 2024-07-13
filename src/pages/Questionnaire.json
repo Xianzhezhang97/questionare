@@ -1,0 +1,116 @@
+[
+  {
+    "section": "Business Information",
+    "question": "What stage is your business currently in?",
+    "options": ["Idea/Concept", "Startup", "Growth", "Established"],
+    "key": "businessStage"
+  },
+  {
+    "section": "Business Information",
+    "question": "What industry is your business in?",
+    "options": [
+      "Healthcare",
+      "Finance",
+      "Retail",
+      "Technology",
+      "Other (Please specify)"
+    ],
+    "key": "industry"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Please describe what kinds of datasets you need to use for your chosen AI technique. There are certain data governance and data quality requirements that apply to the datasets you will use.",
+    "type": "text",
+    "key": "datasetDescription"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Please describe the data you will use as input for your training, validation, and/or testing dataset. You can describe the different source datasets that you plan to use.",
+    "type": "text",
+    "key": "dataInputDescription"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Have you developed a comprehensive privacy policy that complies with the Privacy Act 1988 and the Australian Privacy Principles (APPs)?",
+    "options": ["Yes", "No"],
+    "key": "privacyPolicy"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Is your privacy policy displayed on your company website and easily accessible to users?",
+    "options": ["Yes", "No"],
+    "key": "privacyPolicyDisplay"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Have you implemented data encryption to protect personal and sensitive information?",
+    "options": ["Yes", "No"],
+    "key": "dataEncryption"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Do you have secure access controls in place to prevent unauthorized access to data?",
+    "options": ["Yes", "No"],
+    "key": "accessControls"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Do you conduct regular security audits to identify and address potential vulnerabilities?",
+    "options": ["Yes", "No"],
+    "key": "securityAudits"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Are you ensuring the secure storage and handling of all data, whether it is stored on-site or in the cloud?",
+    "options": ["Yes", "No"],
+    "key": "secureStorage"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Have you developed a data breach response plan that details the steps to be taken in the event of a data breach?",
+    "options": ["Yes", "No"],
+    "key": "dataBreachPlan"
+  },
+  {
+    "section": "Data Privacy and Security",
+    "question": "Have you trained your staff on data breach protocols and reporting requirements under the Notifiable Data Breaches (NDB) scheme?",
+    "options": ["Yes", "No"],
+    "key": "staffTraining"
+  },
+  {
+    "section": "Ethical Considerations",
+    "question": "Have you assessed the potential biases in your AI algorithms?",
+    "options": ["Yes", "No"],
+    "key": "biasAssessment"
+  },
+  {
+    "section": "Ethical Considerations",
+    "question": "Do you have a process for monitoring and mitigating any identified biases in your AI system?",
+    "options": ["Yes", "No"],
+    "key": "biasMitigation"
+  },
+  {
+    "section": "Ethical Considerations",
+    "question": "Do you ensure transparency in how your AI system makes decisions?",
+    "options": ["Yes", "No"],
+    "key": "transparency"
+  },
+  {
+    "section": "Regulatory Compliance",
+    "question": "Are you aware of the relevant AI regulations and guidelines in your industry and region?",
+    "options": ["Yes", "No"],
+    "key": "regulationAwareness"
+  },
+  {
+    "section": "Regulatory Compliance",
+    "question": "Do you regularly review and update your AI system to comply with new regulations?",
+    "options": ["Yes", "No"],
+    "key": "regulationReview"
+  },
+  {
+    "section": "Regulatory Compliance",
+    "question": "Do you have a designated compliance officer or team responsible for AI compliance?",
+    "options": ["Yes", "No"],
+    "key": "complianceOfficer"
+  }
+]
